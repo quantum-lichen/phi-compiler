@@ -7,6 +7,8 @@
 
 > **The world's first geometric compiler. Transforms human intentions (Φ-Code) into mathematically optimal binary (FC-496).**
 
+DEMO HERE : https://phi-compiler-mf3oybgxa9hcwpmksnfhrq.streamlit.app/
+
 ---
 
 ## ⚡ What Makes This Different?
